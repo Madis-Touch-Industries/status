@@ -16,10 +16,28 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-22": 20,
+      "2021-09-22": 1261,
       "2021-09-21": 1440,
       "2021-09-20": 1323
     }
+  },
+  {
+    "name": "Codex",
+    "url": "https://codex.madistouch.industries",
+    "icon": "https://favicons.githubusercontent.com/codex.madistouch.industries",
+    "slug": "codex",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 653,
+    "timeDay": 653,
+    "timeWeek": 653,
+    "timeMonth": 653,
+    "timeYear": 653,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Streaming",
@@ -27,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/stream.madistouch.industries",
     "slug": "streaming",
     "status": "down",
-    "uptime": "0.05%",
+    "uptime": "0.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 394,
-    "timeDay": 324,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 392,
+    "timeDay": 354,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2021-09-22": 20,
+      "2021-09-22": 1261,
       "2021-09-21": 1440,
       "2021-09-20": 1321
     }
