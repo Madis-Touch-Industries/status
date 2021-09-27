@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-27": 20,
+      "2021-09-27": 1412,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
@@ -31,18 +31,20 @@
     "url": "https://codex.madistouch.industries",
     "icon": "https://favicons.githubusercontent.com/codex.madistouch.industries",
     "slug": "codex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 79,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
-    "dailyMinutesDown": {}
+    "time": 249,
+    "timeDay": 216,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
+    "dailyMinutesDown": {
+      "2021-09-27": 0
+    }
   },
   {
     "name": "Git",
@@ -50,18 +52,18 @@
     "icon": "https://favicons.githubusercontent.com/git.madistouch.industries",
     "slug": "git",
     "status": "down",
-    "uptime": "65.54%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "65.54%",
-    "uptimeMonth": "65.54%",
-    "uptimeYear": "65.54%",
+    "uptime": "49.78%",
+    "uptimeDay": "1.48%",
+    "uptimeWeek": "49.78%",
+    "uptimeMonth": "49.78%",
+    "uptimeYear": "49.78%",
     "time": 437,
     "timeDay": 0,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2021-09-27": 20,
+      "2021-09-27": 1391,
       "2021-09-26": 1440,
       "2021-09-25": 10
     }
