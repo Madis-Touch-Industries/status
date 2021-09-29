@@ -9,6 +9,8 @@ sites:
     url: https://codex.madistouch.industries
   - name: Git
     url: https://git.madistouch.industries
+  - name: Stream
+    url: https://stream.madistouch.industries
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
