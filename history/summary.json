@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-06": 20,
+      "2021-10-07": 19,
+      "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
@@ -46,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 242,
-    "timeDay": 218,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 239,
+    "timeDay": 179,
+    "timeWeek": 248,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2021-09-27": 8
     }
@@ -61,11 +62,11 @@
     "icon": "https://favicons.githubusercontent.com/git.madistouch.industries",
     "slug": "git",
     "status": "down",
-    "uptime": "83.51%",
+    "uptime": "84.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.51%",
-    "uptimeYear": "83.51%",
+    "uptimeMonth": "84.78%",
+    "uptimeYear": "84.78%",
     "time": 437,
     "timeDay": 0,
     "timeWeek": 0,
@@ -88,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 323,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 311,
+    "timeDay": 285,
+    "timeWeek": 323,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
